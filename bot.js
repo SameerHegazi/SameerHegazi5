@@ -316,4 +316,4 @@ client.on('message', function(message) {
     }
 });
    
-client.login("NDc3Njk5MTA5NzAxMDI1Nzkz.Dl5brw.rWTn9FFiHV7d8BrtOOAlv9JFs64")
+client.login(process.env.BOT_TOKEN);
